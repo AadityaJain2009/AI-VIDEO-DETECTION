@@ -1,0 +1,59 @@
+#header{
+    font-family: 'cookie' , cursive;
+    font-size: 55px;
+}
+
+#linee{
+    background-color: black;
+    width: 95%;
+    height: 0.5px;
+}
+
+body{
+    background-image: url("back.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#info{
+    height: 40;
+    width: 40;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
+#note{
+    margin-left: 35px;
+}
+
+#infobox{
+    border: black solid;
+    border-width: 0.5px;
+    width: 25%;
+    margin-left: 40;
+}
+
+#label{
+    margin-left: 40;
+}
+
+#inputBox{
+    width: 16.5%;
+    margin-top: -27;
+    margin-left: 140;
+}
+
+#start , #status , #conculsion{
+    width: 25%;
+    margin-left: 40;
+    height: 45;
+    font-size: 15;
+}
+
+canvas{
+    background-color: rgb(255, 255, 255);
+    margin-top: -350;
+    margin-left: 300;
+}
